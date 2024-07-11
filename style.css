@@ -1,0 +1,8 @@
+#carouselExampleCaptions::before {
+  display: block;
+  content: "";
+  height: 50px;
+}
+.carousel-item {
+  max-height: 400px;
+}
